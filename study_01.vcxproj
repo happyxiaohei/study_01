@@ -136,6 +136,10 @@
     <ClCompile Include="taxt_07.c" />
     <ClCompile Include="taxt_08.c" />
     <ClCompile Include="taxt_09.c" />
+    <ClCompile Include="taxt_10.c" />
+    <ClCompile Include="taxt_11.c" />
+    <ClCompile Include="taxt_12.c" />
+    <ClCompile Include="taxt_13.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

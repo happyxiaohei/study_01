@@ -42,5 +42,17 @@
     <ClCompile Include="taxt_09.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="taxt_10.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="taxt_11.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="taxt_12.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="taxt_13.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
