@@ -24,11 +24,6 @@ int main(void)
 	teaspoon = spoon * 3;//三茶勺等于一汤勺
 
 	
-	//假设1杯水
-	//cup=1
-	// pint=.5杯\品脱
-	// ounce=
-	//
 
 
 	printf("cup水:%.2f\npint品脱:%.2f\nounce盎司:%.2f\nspoon大汤勺:%.2f\nteaspoon茶勺:%.2f\n",cup,pint,ounce,spoon,teaspoon);
