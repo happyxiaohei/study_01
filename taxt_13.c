@@ -10,7 +10,7 @@
 
 
 
-int main(void)
+int main13(void)
 
 {
 	//先声明变量
