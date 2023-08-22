@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="taxt16_.c" />
     <ClCompile Include="taxt_01.c" />
     <ClCompile Include="taxt_02.c" />
     <ClCompile Include="taxt_03.c" />
@@ -141,6 +142,8 @@
     <ClCompile Include="taxt_12.c" />
     <ClCompile Include="taxt_13.c" />
     <ClCompile Include="taxt_14.c" />
+    <ClCompile Include="taxt_15.c" />
+    <ClCompile Include="taxt_17.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
