@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="taxt16_.c" />
+    <ClCompile Include="taxt_16.c" />
     <ClCompile Include="taxt_01.c" />
     <ClCompile Include="taxt_02.c" />
     <ClCompile Include="taxt_03.c" />
