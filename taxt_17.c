@@ -3,7 +3,7 @@
 #include<limits.h>   //整数限制
 #include<float.h>    //浮点型限制
 
-int main(void)
+int main17(void)
 {
 	printf("Some number limits for this system:\n");//这个系统的一些数量限制:
 	printf("Biggest int:%d\n",INT_MAX);//最大的整数:2147483647
@@ -15,19 +15,6 @@ int main(void)
 
 	printf("float precision = %d digits\n",FLT_DIG);//浮动eosilon = 1.192093e-07
 	printf("float eosilon = %e\n",FLT_EPSILON);
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 	return 0;

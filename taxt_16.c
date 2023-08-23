@@ -23,13 +23,6 @@ int main16(void)
 
 	//这里有一个关键字    const   这个用起来的话比 #define  更加的灵活
 
-
-
-
-
-
-
-
 	return 0;
 }
 
