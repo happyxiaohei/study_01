@@ -2,7 +2,7 @@
 #include<stdio.h>
 #define MANE "这里是名字"
 
-int main(void)
+int main21(void)
 {
 	float cash = 888.6885622267;
 
