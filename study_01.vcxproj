@@ -152,6 +152,8 @@
     <ClCompile Include="taxt_23.c" />
     <ClCompile Include="taxt_24.c" />
     <ClCompile Include="taxt_25.c" />
+    <ClCompile Include="taxt_26.c" />
+    <ClCompile Include="taxt_27.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

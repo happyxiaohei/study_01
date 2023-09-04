@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS 1 
 #include<stdio.h>
 
-int main(void)
+int main25(void)
 {
 	char name_ming[999], name_xing[999];    //这里添加数组是为了储存字符串    
 	//然后  字符串的储存必须是在数组内   不然报错
