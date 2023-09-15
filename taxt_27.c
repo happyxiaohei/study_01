@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS 1 
 #include<stdio.h>
 #include<string.h>
-int main(void)
+int main27(void)
 {
 	//题目
 	// 
@@ -23,7 +23,7 @@ int main(void)
 	printf("d.%*s\n", strlen(name)+3,name);//这里strlen是在打印的字符前面加3个空字符
 
 
-
+	
 
 
 	return  0;
