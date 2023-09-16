@@ -102,5 +102,8 @@
     <ClCompile Include="taxt_29.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="taxt_30.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

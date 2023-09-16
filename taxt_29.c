@@ -1,8 +1,12 @@
 #define _CRT_SECURE_NO_WARNINGS 1 
 #include<stdio.h>
 
-int main()
+int main29()
 {
+	//4.编写一个程序，提示用户输入身高和姓名，然后以下面的格式显示用户刚刚输入的信息：
+	//Dabney, you are 6.208feet tall.
+	//	使用float类型，并用 / 作为除号。
+
 	char name [30];
 	float height;
 
