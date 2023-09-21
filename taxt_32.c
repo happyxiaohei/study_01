@@ -2,7 +2,7 @@
 #include<stdio.h>
 #include<float.h>
 
-int main(void)
+int main32(void)
 {
 	float f_value = 1.0 / 3.0;
 	double d_value = 1.0 / 3.0;
