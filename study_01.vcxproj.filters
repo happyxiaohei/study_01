@@ -114,5 +114,11 @@
     <ClCompile Include="taxt_33.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="taxt_34.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="taxt_35.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

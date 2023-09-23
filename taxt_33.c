@@ -2,7 +2,7 @@
 #include<stdio.h>
 #define GALLON_TO_LUTRE 3.785
 #define MILE_TO_KM 1.609
-int main(void)
+int main33(void)
 {
 	double range, oil;
 	printf("请输入您行驶的里程:");
